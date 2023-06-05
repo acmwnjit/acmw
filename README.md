@@ -13,6 +13,6 @@ Please create a pull request if you want to fix an issue.
 ACM-W NJIT
 
 
-[Click to Enter ACMW's Website]([https://acmw.github.io/](https://acmwnjit.github.io/acmw/))
+[Click to Enter ACMW's Website](https://acmwnjit.github.io/acmw/)
 
 
