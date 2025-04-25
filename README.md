@@ -6,6 +6,7 @@ Maintained by the NJIT ACM-W board.
 - **2023:** Jingyi Gu
 - **2023:** Wenlu Du
 - **2023:** Vinolia Battiri
+- **2024:** Veronica Leal
 
 Please create a pull request if you want to fix an issue.
 
